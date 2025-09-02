@@ -1,4 +1,4 @@
-# Bitcoin Time Series Analysis & Forecasting Foundation
+# Bitcoin Time Series Analysis
 This project performs an in-depth time series analysis on 14 years of daily Bitcoin data to model its inherent volatility and market dynamics.
 
 ## Key Methodologies:
